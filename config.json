@@ -1,7 +1,7 @@
 {
-    "token": "NzQ1NjczNzY2MzgxNTUxNjQ2.Xz1Mzw.xTFuwRQaH03YzdGx0kbGN-PvJME",
+    "token": "YOUR BOT PREFIX",
     "serverID": "-",   
-    "newChannelName": "WEBI WABO",  
+    "newChannelName": "NAME OF THE CHANNELS",  
     "prefix": "=",
-    "RaidMessage": "https://discord.gg/islam"
+    "RaidMessage": "THE RAIDE MESSAGE"
     }
